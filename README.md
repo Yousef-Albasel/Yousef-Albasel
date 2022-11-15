@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yousef-Albasel
-- 👀 I’m interested in Developing web apps
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me .. maybe you can't
+- 👨‍💻 I'm a Computer Science student - FCAI-CU
+- 👀 I’m interested in Developing web apps, Software Engineering
+- 🌱 I’m currently learning JavaScript, React , MongoDB ( MERN STACK)
+- 📫 How to reach me .. Albasel#4965 on discord
 
 <!---
 Yousef-Albasel/Yousef-Albasel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
