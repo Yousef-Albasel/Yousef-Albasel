@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousef-albasel" alt="yousef-albasel" /></a> </p>
 
-- 👀 I'm intersted in building Web applications
+- 👀 I'm intersted in building Software Engineering
 
-- 🌱 I'm currently learning **JavaScript, React , MongoDB ( MERN STACK)**
+- 🌱 I'm currently learning **C++,Python,Building Apps**
 
 - 📫 How to reach me **Albasel#4965**
 
