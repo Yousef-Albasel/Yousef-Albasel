@@ -7,7 +7,7 @@
 
 - 👀 I'm intersted in Software Engineering
 
-- 🌱 I'm currently learning **Structured Programming using C++** , **Building Games using Python**
+- 🌱 I'm currently learning **Structured Programming using C++** .
 
 - 👔 CodeForces Handle : **Albasel**
 
