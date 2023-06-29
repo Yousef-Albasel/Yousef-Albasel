@@ -1,8 +1,9 @@
 # I'm Yousef Albasel
-[![](https://visitcount.itsvg.in/api?id=Yousef-Albasel&icon=2&color=0)](https://visitcount.itsvg.in)
+![spinning-donut-featured](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/2f203205-2a8d-4861-9739-a61e415edc46)
 
 # 💫 About Me:
-When I started seriously learning programming at 16, I was a passionate individual with a desire to explore its potential. I began as a web developer, working on small projects and learning js. However, my understanding of computer science completely changed when I entered university. I was amazed by its ability to process large amounts of data and create algorithms that could visually depict complex math concepts and equations, resulting in captivating art. This discovery sparked my fascination and motivated me to delve deeper into understanding these processes.
+<center> When I started seriously learning programming at 16, I was a passionate individual with a desire to explore its potential. I began as a web developer, working on small projects and learning js. However, my understanding of computer science completely changed when I entered university. I was amazed by its ability to process large amounts of data and create algorithms that could visually depict complex math concepts and equations, resulting in captivating art. This discovery sparked my fascination and motivated me to delve deeper into understanding these processes. </center>
+[![](https://visitcount.itsvg.in/api?id=Yousef-Albasel&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
