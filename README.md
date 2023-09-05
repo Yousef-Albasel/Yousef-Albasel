@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/textanim-NO61G.gif" width="50%" height="50%" style="position: relative; ">
-</p>
-
-<img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/Animated Shape (1).svg" style="position: absolute; top: -50px; width: 100%;" alt="Image">
+<div style="position: relative; width: 50%; margin: 0 auto; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/textanim-NO61G.gif" width="100%" height="100%" style="position: absolute; top: 0; left: 0; z-index: 1;">
+  <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/Animated Shape (1).svg" style="position: absolute; top: 0; left: 0; width: 100%; z-index: 2;" alt="Image">
+</div>
