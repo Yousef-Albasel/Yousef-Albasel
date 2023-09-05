@@ -5,8 +5,8 @@
 <p align="center"> Computer Science Student | Computer Graphics Enthusiast </p>
 <p align="center"> FCAI-CU </p>
 <p align="center">
-![image](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/7b65c65c-afe0-47c4-9d46-ba5a72da8cac)
 
+<img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/39.png" width="100%" height="100%" style="position: absolute; top: 0; left: 0; z-index: 1;">
 </p>
 
 # Checkout my Latest Projects:
