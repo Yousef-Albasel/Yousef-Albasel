@@ -1,6 +1,6 @@
 <p align = "center" >
 
-  <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/textanim-oWZQt.gif" width=50% height=50%>
+  <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/textanim-ygLHz.gif" width=50% height=50%>
 
   
 </p>
