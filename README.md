@@ -1,1 +1,2 @@
-![Animated Shape](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/0326b21e-a9ad-4bac-9287-33fe49c26dd1)
+![logo solid](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/649395ef-7985-4c84-be8f-6bd7515e3a62)
+![Animated Shape (1)](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/ebaafb8e-5d92-4f35-b187-5800d15b601b)
