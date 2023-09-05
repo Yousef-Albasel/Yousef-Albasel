@@ -3,5 +3,8 @@
   <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/Animated Shape (1).svg" width= 80%; height = 80%; style="position: absolute; top: 0; left: 0; z-index: 2;" alt="Image">
 </div></p>
 <p align="center"> Computer Science Student | Computer Graphics Enthusiast </p>
-<p align="center"> Faculty of Computer Science and Artificial Intelligence </p>
+<p align="center"> FCAI-CU </p>
+![image](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/5d031c14-87ce-45db-be99-64ed7f56d72a)
+
+# Checkout my Latest Projects:
 
