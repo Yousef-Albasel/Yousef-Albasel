@@ -5,7 +5,7 @@
 <p align="center"> Computer Science Student | Computer Graphics Enthusiast </p>
 <p align="center"> FCAI-CU </p>
 
-[url=/pixelart/dividers/2/][img]/files/pixelart/divider/2.png[/img][/url]
+![image](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/7b65c65c-afe0-47c4-9d46-ba5a72da8cac)
 
 
 # Checkout my Latest Projects:
