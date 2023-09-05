@@ -1,5 +1,6 @@
 <p align = "center" >
-![textanim-dHR9y](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/b58a0085-9f9c-4de2-9af2-a4fb758fbd13)
+
+  <img src="https://raw.githubusercontent.com/Yousef-Albasel/Yousef-Albasel/master/textanim-dHR9y.gif" width="300" height="100">
 
   
 </p>
