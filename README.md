@@ -1,7 +1,6 @@
 <div style="position: relative; width: 50%; margin: 0 auto; overflow: hidden;">
 </div></p>
-<p align="center"> Hello, Iam Yousef Albasel </p>
-<p align="center"> Computer Science Student | Computer Graphics Enthusiast </p>
-<p align="center"> FCAI-CU </p>
-</p>
+<h1 align="center">Ｈｉ ， Ｉ＇ｍ Ｙｏｕｓｅｆ Ａｌｂａｓｅｌ </h1>
+<h5 align="center">ᴄꜱ ꜱᴛᴜᴅᴇɴᴛ | ᴄᴏᴍᴘᴜᴛᴇʀ ɢʀᴀᴘʜɪᴄꜱ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ </h5>
+<h6 align="center">If you get tired, learn to rest, not to quit.</h6>
 
