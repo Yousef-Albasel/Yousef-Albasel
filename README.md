@@ -22,8 +22,9 @@
 
 <h3 align="left" style="font-size: 1.0rem;">Software Engineering</h3>
 <ul style="font-size: 0.6rem; line-height: 1.6;">
-  <li><a href="https://github.com/Yousef-Albasel/Vertex" target="_blank">Vertex - Advanced Static-Site Generation Tool.</a></li>
   <li><a href="https://github.com/AdelHefny/Xperienced" target="_blank">Xperienced - Mentorship and Softskill trainning platform powered by AI</a></li>
+  <li><a href="https://github.com/a7medev/lms" target="_blank">LMS built using Java Spring Boot.</a></li>
+  <li><a href="https://github.com/Yousef-Albasel/Vertex" target="_blank">Vertex - Advanced Static-Site Generation Tool.</a></li>
   <li><a href="https://github.com/Yousef-Albasel/Orbitify" target="_blank">Orbitify - Exoplanet Identification and Visulization for SpaceApp2025</a></li>
 </ul>
 
@@ -31,7 +32,6 @@
 <h3 align="left" style="font-size: 1.0rem;">Other Projects</h3>
 <ul style="font-size: 0.6rem; line-height: 1.6;">
   <li><a href="https://github.com/Yousef-Albasel/Bor3y" target="_blank">Discord bot for planning meetings, summarization, notifications.</a></li>
-  <li><a href="https://github.com/a7medev/lms" target="_blank">LMS built using Java Spring Boot.</a></li>
 </ul>
 
 
