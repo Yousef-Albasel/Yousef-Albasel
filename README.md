@@ -19,6 +19,7 @@
   <li><a href="https://github.com/Yousef-Albasel/GenTerrain3D" target="_blank">Procedural Terrain Generator</a></li>
   <li><a href="https://github.com/Yousef-Albasel/ProceduralTerra" target="_blank">Perlin Noise Implementation</a></li>
   <li><a href="https://github.com/Yousef-Albasel/raytracer" target="_blank">Ray Tracer</a></li>
+  <li><a href="https://github.com/Yousef-Albasel/First-Spark" target="_blank">First Spark - Openworld Game with Procediral Content Generation</a></li>
 </ul>
 
 <h3 align="left" style="font-size: 1.0rem;">Software Engineering</h3>
@@ -27,6 +28,7 @@
   <li><a href="https://github.com/AdelHefny/Xperienced" target="_blank">Xperienced - Mentorship and Softskill trainning platform powered by AI</a></li>
   <li><a href="https://github.com/Yousef-Albasel/Orbitify" target="_blank">Orbitify - Exoplanet Identification and Visulization for SpaceApp2025</a></li>
 </ul>
+
 
 <h3 align="left" style="font-size: 1.0rem;">Other Projects</h3>
 <ul style="font-size: 0.6rem; line-height: 1.6;">
