@@ -1,4 +1,4 @@
-<div style="position: relative; width: 50%; margin: 0 auto; overflow: hidden;">
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/afee908e-3ee8-4897-b561-b08600bae430" /><div style="position: relative; width: 50%; margin: 0 auto; overflow: hidden;">
 </div></p>
 <h1 align="center">Ｈｉ ， Ｉ＇ｍ Ｙｏｕｓｅｆ Ａｌｂａｓｅｌ </h1>
 <h5 align="center">𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 | 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙶𝚛𝚊𝚙𝚑𝚒𝚌𝚜 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 </h5>
