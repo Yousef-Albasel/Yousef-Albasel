@@ -1,7 +1,6 @@
 <h1 align="center">Ｈｉ ， Ｉ＇ｍ Ｙｏｕｓｅｆ Ａｌｂａｓｅｌ </h1>
 <h5 align="center">𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 | 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙶𝚛𝚊𝚙𝚑𝚒𝚌𝚜 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 </h5>
 <h6 align="center">Dream big, fail fast, and pretend it’s all part of the plan.</h6>
-<h6 align="center">Xperienced is now live at xperienced.us (still demo though)</h6>
 
 <br />
 <h2>Project Highlights </h2>
