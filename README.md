@@ -10,6 +10,7 @@
   <li><a href="https://www.kaggle.com/code/yousefalbasel/generating-interior-design-dcgan-wgan" target="_blank">Generating Interior Design using wGAN</a></li>
   <li><a href="https://github.com/Yousef-Albasel/OULAD-Recommender-System" target="_blank">OULAD Recommendation System for learning material</a></li>
   <li><a href="https://www.kaggle.com/code/yousefalbasel/auto-diagnostic-reports-generation-on-mimic-cxr-cn" target="_blank">Auto-Diagnostic Report Generation on MIMIC-CXR</a></li>
+  <li><a href="https://github.com/Yousef-Albasel/LLMinPytorch.git" target="_blank">LLM From Scratch</a></li>
 </ul>
 
 <h3 align="left" style="font-size: 1.0rem;">Computer Graphics</h3>
