@@ -11,6 +11,9 @@
   <li><a href="https://github.com/Yousef-Albasel/OULAD-Recommender-System" target="_blank">OULAD Recommendation System for learning material</a></li>
   <li><a href="https://www.kaggle.com/code/yousefalbasel/auto-diagnostic-reports-generation-on-mimic-cxr-cn" target="_blank">Auto-Diagnostic Report Generation on MIMIC-CXR</a></li>
   <li><a href="https://github.com/Yousef-Albasel/LLMinPytorch.git" target="_blank">LLM From Scratch</a></li>
+  <li><a href="https://github.com/Yousef-Albasel/NeuroEvolution" target="_blank">NeuroEvolution implementation in Java - Training NN on car races</a></li>
+  
+  
 </ul>
 
 <h3 align="left" style="font-size: 1.0rem;">Computer Graphics</h3>
@@ -19,6 +22,8 @@
   <li><a href="https://github.com/Yousef-Albasel/ProceduralTerra" target="_blank">Perlin Noise Implementation</a></li>
   <li><a href="https://github.com/Yousef-Albasel/raytracer" target="_blank">Ray Tracer</a></li>
   <li><a href="https://github.com/Yousef-Albasel/First-Spark" target="_blank">First Spark - Openworld Game with Procediral Content Generation</a></li>
+  <li><a href="https://github.com/Yousef-Albasel/Procedural-Trees" target="_blank">Procedural Trees generator using L-Systems (OpenGL C++) </a></li>
+
 </ul>
 
 <h3 align="left" style="font-size: 1.0rem;">Software Engineering</h3>
